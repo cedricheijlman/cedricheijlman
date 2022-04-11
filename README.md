@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricheijlman&label=Profile%20views&color=0e75b6&style=flat" alt="cedricheijlman" /> </p>
 
-- 🌱 I’m currently learning **Node JS, Express and MongoDB**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://cedricheijlman.netlify.app](https://cedricheijlman.netlify.app/)
 
